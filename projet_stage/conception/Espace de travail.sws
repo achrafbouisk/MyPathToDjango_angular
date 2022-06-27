@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{0437F45D-1429-4C51-B05C-31F976CCAD2A}" Loaded="No" Name="ModeleConceptuelDonnees_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="../../../hamza mcd/ModeleConceptuelDonnees_1.mcd"/>
+		<Model Expanded="Yes" ID="{DB31D798-C59B-4959-A193-E5E3E3FE6712}" Loaded="No" Name="mld" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="../../../hamza mcd/mld.mld"/>
+		<Model Expanded="Yes" ID="{54143E1B-F397-4FA0-B6FB-C093E365C327}" Name="ModeleConceptuelDonnees_1" Selected="Yes" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="../../../hamza mcd/mcd ayman.mcd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
